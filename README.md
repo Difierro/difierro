@@ -28,4 +28,4 @@ Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi
 Junior Developer sempre buscando aprimorar-se.
 
 
-![snake gif](https://github.com/difierro/difierro/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Difierro/difierro/blob/output/github-contribution-grid-snake.svg)
