@@ -28,4 +28,17 @@ Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi
 Junior Developer sempre buscando aprimorar-se.
 
 
-![snake gif](https://github.com/Difierro/difierro/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Difierro/difierro/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Difierro/difierro/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Difierro/difierro/output/github-contribution-grid-snake.svg"
+  />
+</picture>
