@@ -26,3 +26,6 @@ Técnico em Redes de Computadores pela EEEP Professora Maria Célia Pinheiro Fal
 Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi-Árido (UFERSA).
 
 Junior Developer sempre buscando aprimorar-se.
+
+
+![snake gif](https://github.com/difierro/difierro/blob/output/github-contribution-grid-snake.gif)
