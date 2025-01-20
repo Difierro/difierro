@@ -15,7 +15,7 @@ Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi
 ### Objetivos:
 ___
 
-Estou focado em desenvolver minhas habilidades em DevOps e Cloud Computing, explorando ferramentas e práticas que otimizem processos de automação, integração e entrega contínua. Também busco aprofundar meu domínio em Python e AWS para criar soluções escaláveis e eficientes.buscando aprimorar minhas habilidades em desenvolvimento backend, com foco em Python e AWS, além de expandir meus conhecimentos em DevOps e Cloud Computing.
+Estou focado em desenvolver minhas habilidades em DevOps e Cloud Computing, explorando ferramentas e práticas que otimizem processos de automação, integração e entrega contínua. Também busco aprofundar meu domínio em Python e AWS para criar soluções escaláveis e eficientes.
 
 ### Tecnolgias:
 ___
